@@ -4,7 +4,7 @@ Demo session at Codemotion Online Tech Conference 2021 "Formula 1 telemetry proc
 
 * Italian edition
     * [Slides deck](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel)
-    * Video recording
+    * [Video recording](https://youtu.be/c951cQGxkn8?list=PLq2-o3pBToweddPn98g7S0wvH21G7TSLV&t=7088)
 * Spanish edition (session in English)
     * Slides deck
     * Video recording
